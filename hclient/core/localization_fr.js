@@ -21,26 +21,26 @@
 
 regional['fr'] = {
     language: 'Langue',
-    'Databases': 'Bases de données,
-    'Design database': 'Concevoir une base de données,
-    'Import data': 'Importer des données,
+    'Databases': 'Bases de données',
+    'Design database': 'Concevoir une base de données',
+    'Import data': 'Importer des données',
     'Files in situ': 'Dossiers in situ',
     'Report bug': 'Signaler un bug',
-    'About': 'À propos...',
+    'About': 'A propos...',
     'Confirmation':'Confirmation',
     'Info':'Info',
 
-    'Register': 'S'inscrire',
+    'Register': 'S\'inscrire',
     'Registration': 'Inscription',
     'Login': 'Connexion',
-    'Please log in': 'Veuillez vous connecter,
+    'Please log in': 'Veuillez vous connecter',
     'Please contact to register':'Veuillez contacter le propriétaire de la base de donnée pour vous inscrire ',
     'Log out' : 'Déconnexion',
     'Manage': 'Gérer',
     'Sort': 'Trier',
     'Search': 'Chercher',
     'Search result': 'Résultat de recherche',
-    'Merge': 'Fusionner,
+    'Merge': 'Fusionner',
     'Rate': 'Donner une note',
     'Relate to': 'Lier',
     'Access': 'Accès',
@@ -50,9 +50,9 @@ regional['fr'] = {
     'Import': 'Importer',
 
 
-    'Username': 'Login,
+    'Username': 'Login',
     'Password': 'Mot de passe',
-    'Remember me': 'Se souvenir de moi,
+    'Remember me': 'Se souvenir de moi',
     'Forgotten your password?': 'Mot de passe oublié ?',
     'Click here to reset it': 'Réinitialiser votre mot de passe',
     'Enter your username OR email address below and a new password will be emailed to you.':'Saisissez votre login ou votre adresse e-mail de récuperation"
@@ -70,7 +70,7 @@ regional['fr'] = {
     'Manage Files': 'Gérer mes dossiers',
     'Manage Reminders' : 'Gérer mes rappels',
     'Set Ratings' : 'Définir mes notations',
-    'No Rating': 'Aucune notation,
+    'No Rating': 'Aucune notation',
 
     'Name': 'Titre',
     'Description': 'Description',
@@ -102,9 +102,9 @@ regional['fr'] = {
     'options': 'options',
 
     'by name': 'par titre',
-    'by usage': par usage',
+    'by usage': 'par usage',
     'by date': 'par date',
-    'by size': 'par taille,
+    'by size': 'par taille',
     'by type': 'par type',
     'marked': 'marqué',
 
@@ -120,35 +120,35 @@ regional['fr'] = {
     'records per request':'записей в запросе',
 
     'Manage tags': 'Gérer mes tags',
-    'Create new tag': 'Créer un nouveau tag,
+    'Create new tag': 'Créer un nouveau tag',
     'Add Tag': 'Ajouter un tag',
     'Edit Tag': 'Éditer le tag',
-    'Define new tag that replaces old ones': 'Définir un nouveau tag qui remplace les anciens,
+    'Define new tag that replaces old ones': 'Définir un nouveau tag qui remplace les anciens',
     'Length of tag must be more than 2.': 'La longueur du tag doit être supériure à 2',
     'Assign selected tags': 'Assigner les tags selectionnés',
-    'Personal Tags':'Mes tags personnels,
+    'Personal Tags':'Mes tags personnels',
     'Delete selected tags': 'Supprimer les tags selectionnés',
 
 
 
     'Preferences' : 'Préférences',
-    'Layout configuration file': Fichier de configuration de la mise en page',
+    'Layout configuration file': 'Fichier de configuration de la mise en page',
     'Language':'Langue',
     'Theme':'Thème',
     'Open edit in new window':'Ouvrir la fenêtre d\'édition',
     'When exiting record edit, prompt for tags if no tags have been set':'Перед сохранением предлагать определить ярлыки',
     'Reload page to apply new settings?':'Recharger la page pour appliquer les nouveaux paramètres ?',
 
-    'Click to save current search':'Cliquez pour sauvegarder la recherche en cours,
-    'My Bookmarks': 'Mes marque-pages,
+    'Click to save current search':'Cliquez pour sauvegarder la recherche en cours',
+    'My Bookmarks': 'Mes marque-pages',
     'My Searches': 'Mes recherches',
-    'Predefined searches': 'Recherches prédefinies,
-    'Recent changes': 'Changements récents,
+    'Predefined searches': 'Recherches prédefinies',
+    'Recent changes': 'Changements récents',
     'All records': 'Tous les records',
     'All (date order)': 'Tous (ordonnés par date)',
-    'Edit saved search': 'Éditer la recherche sauvegardée,
-    'Delete saved search': 'Supprimer la recherche sauvegardée,
-    'Manage Saved Searches': 'Gérer mes recherches sauvegardées,
+    'Edit saved search': 'Éditer la recherche sauvegardée',
+    'Delete saved search': 'Supprimer la recherche sauvegardée',
+    'Manage Saved Searches': 'Gérer mes recherches sauvegardées',
     'Create new saved search': 'Créer une nouvelle recherche sauvegardée',
 
     'Database Summary': 'Résumé de la base de données',
@@ -159,8 +159,8 @@ regional['fr'] = {
 
     'select record': 'Selectionner un ,
 
-    'Leave blank for no change': Laisser vide pour ne pas effectuer un changement,
-    'Passwords are different': 'Les mots de passe ne correspondent pas,
+    'Leave blank for no change': 'Laisser vide pour ne pas effectuer un changement',
+    'Passwords are different': 'Les mots de passe ne correspondent pas',
     'Wrong email format': 'Mauvais format d\'e-mail',
     'Wrong user name format': 'Mauvais format de nom d\'utilisateur',
     'Wrong password format': 'Mauvais format de mot de passe',
@@ -196,7 +196,7 @@ regional['fr'] = {
     'Create': 'Créer',
     'Confirm': 'Confirmer',
     'Proceed': 'Continuer',
-    'Continue: 'Continuer',
+    'Continue': 'Continuer',
     'Go': 'Continuer',
     'Yes': 'Oui',
     'OK': 'OK',
@@ -204,7 +204,7 @@ regional['fr'] = {
     'Save': 'Sauvegarder',
     'Save data': 'Sauvegarder les données',
     'Ignore and close': 'Ignorer et fermer',
-    'Drop data changes': 'Abandonner les changements effectués,
+    'Drop data changes': 'Abandonner les changements effectués',
     'Manage': 'Gérer',
     'Select': 'Selectionner',
     'Configure': 'Configurer',
@@ -439,7 +439,7 @@ regional['fr'] = {
             collection_limit: 'The number of selected records is above the limit in ',
             collection_select_hint:  'Veuillez sélectionner au mons un enregistrement pour l\'ajouter à la collection',
             collection_select_hint2: 'Veuillez sélectionner au mons un enregistrement pour le retirer de la collection',
-            collection_url_hint: 'Les collections sont sauvegardées comme une liste d\'identifiants. L'URL générée par cette collection va dépasser la limite possible pour une URL (2083 caractères). Veuillez enregistrer la colection en tant que recherche sauvegardée (qui autorise un plus grand nombre d\'enregistrements), ou sélectionnez moins d\'enregistrements.',
+            collection_url_hint: 'Les collections sont sauvegardées comme une liste d\'identifiants. L\'URL générée par cette collection va dépasser la limite possible pour une URL (2083 caractères). Veuillez enregistrer la colection en tant que recherche sauvegardée (qui autorise un plus grand nombre d\'enregistrements), ou sélectionnez moins d\'enregistrements.',
         
     'Recode': 'Modifier',
         menu_selected_value_add: 'Ajouter une valeur',
@@ -582,9 +582,9 @@ regional['fr'] = {
         recordTag_hint0: 'Sélectionnez les tags qui doivent être ajoutés aux marque-pages pour les URL sélectionnées<br>',
         recordTag_hint1: 'Sélectionnez les tags qui doivent être ajoutés aux marque-pages pour la liste d\'enregistrements choisis<br>',
         recordTag_hint2: 'Sélectionnez les tags qui doivent être ajoutés ou supprimés pour la liste d\'enregistrements choisis<br>',
-        recordTag_hint3: 'Les tags correspondants sont affichés pendant que vous tapez. Cliquez sur un tag proposé pour l\'ajouter<br>
-        Les tags non reconnus sont ajoutés automatiquement comme tags spéficiques à l\'utilisateur <br>
-        (les tags de groupe doivent être ajoutés par l\'administrateur du groupe). Les tags peuvent contenir des espaces.',
+        recordTag_hint3: 'Les tags correspondants sont affichés pendant que vous tapez. Cliquez sur un tag proposé pour l\'ajouter<br>'
+        +'Les tags non reconnus sont ajoutés automatiquement comme tags spéficiques à l\'utilisateur<br>'
+        +'(les tags de groupe doivent être ajoutés par l\'administrateur du groupe). Les tags peuvent contenir des espaces.',
         'No tags were affected': 'Aucun tag n\'a été attribué',
         'Bookmarks added': 'Marque page ajouté',
         'Tags added': 'Tags ajoutés',
@@ -627,5 +627,4 @@ regional['fr'] = {
     
     
 };
-
 
